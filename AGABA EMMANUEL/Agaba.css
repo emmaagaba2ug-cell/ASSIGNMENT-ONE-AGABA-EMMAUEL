@@ -1,0 +1,16 @@
+ 
+ body{
+	 background:blue;
+	 color:#fff;
+ }
+ 
+ p{
+	background-color:yellow;
+	margin:25px 100px;
+	color:black;
+}
+#heading1{
+	padding-left:500px;
+	background:maroon;
+	height:50px;
+}
